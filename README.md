@@ -19,7 +19,7 @@ The following **required** functionality is completed:
     <a href="https://www.loom.com/share/9b5c09c850324b978fd23004ce7433ac">
     </a>
     <a href="https://www.loom.com/share/9b5c09c850324b978fd23004ce7433ac">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9b5c09c850324b978fd23004ce7433ac-with-play.gif">
     </a>
   </div>
 
