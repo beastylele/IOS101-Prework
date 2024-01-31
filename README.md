@@ -15,9 +15,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 213.46534653465346%; height: 0;"><iframe src="https://www.loom.com/embed/9b5c09c850324b978fd23004ce7433ac?sid=930ef930-a863-4fff-91eb-2f27219557c3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
+<div>
+    <a href="https://www.loom.com/share/9b5c09c850324b978fd23004ce7433ac">
+    </a>
+    <a href="https://www.loom.com/share/9b5c09c850324b978fd23004ce7433ac">
+      <img style="max-width:300px;" src="null">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
